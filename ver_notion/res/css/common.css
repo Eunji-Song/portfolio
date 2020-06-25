@@ -2,7 +2,7 @@
 
 .container {
     /* width: 85%; */
-    width: 1200px;
+    width: 70%;
     padding: 50px 0;
     margin: auto;
     height: 100%; ;
@@ -10,4 +10,8 @@
 .container .title {
     font-size: 30px;
     margin-bottom: 35px;
+}
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;; 
 }
